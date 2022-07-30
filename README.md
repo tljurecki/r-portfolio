@@ -41,5 +41,5 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <img width="1303" alt="Screen Shot 2022-07-30 at 5 32 09 PM" src="https://user-images.githubusercontent.com/99137308/181996817-c08e8a0a-ecde-4069-9c06-e58d7af1652f.png">
 
 ## Links
-Deployed Site: https://github.com/tljurecki/react-portfolio.git
-GitHub Repo: https://tljurecki.github.io/react-portfolio/
+Deployed Site: 
+GitHub Repo: 
