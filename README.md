@@ -42,4 +42,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Links
 Deployed Site: https://tljurecki.github.io/r-portfolio/ 
-GitHub Repo: https://github.com/tljurecki/react-portfolio.git
+GitHub Repo: https://https://github.com/tljurecki/r-portfolio.git
